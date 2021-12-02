@@ -1,4 +1,4 @@
-# Data-Analytics
+# Data-Analytics-Basic
 
 *Numpy
 *Pandas
